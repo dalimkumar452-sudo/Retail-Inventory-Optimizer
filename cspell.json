@@ -1,0 +1,28 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "Stockouts",
+        "Stockout",
+        "Scipy",
+        "Matplotlib",
+        "Streamlit",
+        "Seaborn",
+        "Joblib",
+        "venv",
+        "numpy",
+        "xgboost",
+        "streamlit",
+        "matplotlib",
+        "scipy",
+        "joblib",
+        "Pylance",
+        "selectbox",
+        "Regressor"
+    ],
+    "ignorePaths": [
+        "node_modules",
+        "venv",
+        ".venv"
+    ]
+}

@@ -1,0 +1,42 @@
+# --- Python Environment ---
+venv/
+.venv/
+env/
+bin/
+lib/
+develop-eggs/
+dist/
+eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Project Specifics ---
+# আপনি চাইলে বড় ডেটা ফাইল ইগনোর করতে পারেন
+# data/*.csv
+# models/*.pkl
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Streamlit ---
+.streamlit/
